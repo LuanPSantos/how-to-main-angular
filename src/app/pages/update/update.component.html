@@ -1,0 +1,6 @@
+<app-header buttonLabel="Voltar" (onClick)="onClickBack()"></app-header>
+
+<app-phone-form [phone]="phone" (onChange)="onChangePhoneForm($event)"></app-phone-form>
+
+<button mat-raised-button color="warn" (click)="onClickDelete()">Excluir</button>
+<button mat-raised-button color="primary" (click)="onClickSave()" class="button-save">Salvar</button>

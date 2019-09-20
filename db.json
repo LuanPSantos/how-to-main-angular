@@ -1,0 +1,24 @@
+{
+  "phones": [
+    {
+      "phone": "(19) 11111-11111",
+      "name": "Daniel Dawakami",
+      "id": 1
+    },
+    {
+      "phone": "(19) 2222-2222",
+      "name": "Luan Santos",
+      "id": 2
+    },
+    {
+      "phone": "(19) 3333-3333",
+      "name": "Alex Santos",
+      "id": 3
+    },
+    {
+      "phone": "(16) 7777-7777",
+      "name": "Edmar Munhoz",
+      "id": 4
+    }
+  ]
+}

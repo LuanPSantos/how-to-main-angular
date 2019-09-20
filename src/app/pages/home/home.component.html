@@ -1,0 +1,2 @@
+<app-header buttonLabel="Novo contato" (onClick)="onClickNewPhone()"></app-header>
+<app-list [phones]="(phones$ | async)" (onItemClick)="goToUpdate($event)"></app-list>
